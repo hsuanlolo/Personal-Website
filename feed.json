@@ -9,5 +9,33 @@
         "name": "Hsuan Lo"
     },
     "items": [
+        {
+            "id": "https://hsuanlolo.github.io/resume/education-2.html",
+            "url": "https://hsuanlolo.github.io/resume/education-2.html",
+            "title": "EDUCATION",
+            "summary": "Harvard University Cambridge, MA Doctorate in Housing Economics Sep, 2020 – Nov, 2023 The University of Manchester Manchester, UK MSc. in Planning Sep, 2015 – Nov, 2017 National Taipei University Taipei, Taiwan B.A. in Real Estate and Built Environment Sep, 2011 – Jun, 2015",
+            "content_html": "<blockquote>\n<p><strong><span style=\"color: #000000;\">Harvard University</span>                                                                              </strong><em>Cambridge, MA</em></p>\n<p><em><span style=\"color: #34495e;\">Doctorate in Housing Economics </span></em><strong>                                                </strong><em>Sep, 2020 </em><em>– </em><em>Nov, 2023</em></p>\n</blockquote>\n<ul>\n<li>Key Modules:<strong> </strong>Gained extensive knowledge in Applied Economics, Statistics, Data Science, Casual Inference, Market Forecasting, and Predictive Modeling</li>\n<li>Honors &amp; Awards: Harvard Real Estate Grant, 2022; Fairbank Research Grant, 2021; Harvard Doctoral Scholarships, 2020</li>\n</ul>\n<blockquote>\n<p><strong>The University of Manchester                                                          </strong><em>Manchester, UK</em></p>\n<p><em>MSc. in Plannin</em><em>g</em><em>                                                                                  </em><em>Sep, 2015 </em><em>– </em><em>Nov, 2017</em></p>\n</blockquote>\n<ul>\n<li>Dual Degree in Urban and Regional Planning, National Taipei University</li>\n<li>Key Modules: Spatial Econometrics, Policy Analytics, Quantitative Research</li>\n<li>Honors &amp; Awards: Exceptional Thesis Award, 2017; Presidential Award*2 – top 5% students, Fall 2015 &amp; Spring 2016</li>\n</ul>\n<blockquote>\n<p><strong>National Taipei University                                                        </strong><strong> </strong><strong>  </strong><strong>      </strong><em>Taipei, Taiwan</em></p>\n<p><em>B.A. in Real Estate and Built Environment                                 </em><strong>    </strong><em>Sep, 2011 </em><em>– </em><em>Jun, 2015</em></p>\n</blockquote>\n<ul>\n<li>Dual Degree in Urban and Regional Planning, National Taipei University</li>\n<li>Key Modules: Spatial Econometrics, Policy Analytics, Quantitative Research</li>\n<li>Honors &amp; Awards: Exceptional Thesis Award, 2017; Presidential Award*2 – top 5% students, Fall 2015 &amp; Spring 2016</li>\n</ul>\n<p> </p>\n<p> </p>\n<p><strong> </strong></p>",
+            "author": {
+                "name": "Hsuan Lo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-09T18:03:24+08:00",
+            "date_modified": "2023-11-09T18:03:24+08:00"
+        },
+        {
+            "id": "https://hsuanlolo.github.io/resume/hsuan-lo.html",
+            "url": "https://hsuanlolo.github.io/resume/hsuan-lo.html",
+            "title": "HSUAN LO",
+            "summary": "Hsuan Lo is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real estate, behavior science, and diverse data analytics. He also received statistics, modeling, AI, SQL, and data visualization training and certificates from Harvard and MIT.",
+            "content_html": "<p>Hsuan Lo is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real estate, behavior science, and diverse data analytics. He also received statistics, modeling, AI, SQL, and data visualization training and certificates from Harvard and MIT.</p>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://hsuanlolo.github.io/resume/media/posts/2/headshot-xs.png\" alt=\"\" width=\"300\" height=\"298\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-xs.png 300w ,https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-sm.png 480w ,https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-md.png 768w\"></figure>",
+            "author": {
+                "name": "Hsuan Lo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-09T17:52:09+08:00",
+            "date_modified": "2023-11-09T17:54:35+08:00"
+        }
     ]
 }
