@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Hsuan Lo</title>
+    <title>Hsuan Lo&#x27;s Website</title>
     <link href="https://hsuanlolo.github.io/resume/feed.xml" rel="self" />
     <link href="https://hsuanlolo.github.io/resume" />
     <updated>2023-11-09T18:03:24+08:00</updated>
@@ -20,7 +20,7 @@
         <updated>2023-11-09T18:03:24+08:00</updated>
             <summary>
                 <![CDATA[
-                    Harvard University Cambridge, MA Doctorate in Housing Economics Sep, 2020 – Nov, 2023 The University of Manchester Manchester, UK MSc. in Planning Sep, 2015 – Nov, 2017 National Taipei University Taipei, Taiwan B.A. in Real Estate and Built Environment Sep, 2011 – Jun, 2015
+                    Harvard University Cambridge, MA Doctorate in Housing Economics Sep, 2020 – Nov, 2023 The University of Manchester Manchester, UK MSc.
                 ]]>
             </summary>
         <content type="html">
@@ -68,13 +68,13 @@
         <updated>2023-11-09T17:54:35+08:00</updated>
             <summary>
                 <![CDATA[
-                    Hsuan Lo is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real estate, behavior science, and diverse data analytics. He also received statistics, modeling, AI, SQL, and data visualization training and certificates from Harvard and MIT.
+                    Hsuan Lo is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Hsuan Lo is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real estate, behavior science, and diverse data analytics. He also received statistics, modeling, AI, SQL, and data visualization training and certificates from Harvard and MIT.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://hsuanlolo.github.io/resume/media/posts/2/headshot-xs.png" alt="" width="300" height="298" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-xs.png 300w ,https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-sm.png 480w ,https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-md.png 768w"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://hsuanlolo.github.io/resume/media/posts/2/headshot-xs.png" alt="" width="300" height="298" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-xs.png 300w ,https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-sm.png 480w ,https://hsuanlolo.github.io/resume/media/posts/2/responsive/headshot-xs-md.png 768w"></figure>
             ]]>
         </content>
     </entry>
