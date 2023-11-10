@@ -3,33 +3,12 @@
     <title>HSUAN LO</title>
     <link href="https://hsuanlolo.github.io/resume/feed.xml" rel="self" />
     <link href="https://hsuanlolo.github.io/resume" />
-    <updated>2023-11-10T16:28:15+08:00</updated>
+    <updated>2023-11-09T18:03:24+08:00</updated>
     <author>
         <name>Hsuan Lo</name>
     </author>
     <id>https://hsuanlolo.github.io/resume</id>
 
-    <entry>
-        <title>ABOUT HSUAN LO</title>
-        <author>
-            <name>Hsuan Lo</name>
-        </author>
-        <link href="https://hsuanlolo.github.io/resume/about-hsuan-lo.html"/>
-        <id>https://hsuanlolo.github.io/resume/about-hsuan-lo.html</id>
-
-        <updated>2023-11-10T16:28:15+08:00</updated>
-            <summary>
-                <![CDATA[
-                    Hsuan Lo is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><strong>Hsuan Lo</strong> is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real estate, behavior science, and diverse data analytics. He also received statistics, modeling, AI, SQL, and data visualization training and certificates from Harvard and MIT.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://hsuanlolo.github.io/resume/media/posts/4/headshot-xs-xs.png" alt="" width="300" height="298" sizes="(max-width: 48em) 100vw, 768px" srcset="https://hsuanlolo.github.io/resume/media/posts/4/responsive/headshot-xs-xs-xs.png 300w ,https://hsuanlolo.github.io/resume/media/posts/4/responsive/headshot-xs-xs-sm.png 480w ,https://hsuanlolo.github.io/resume/media/posts/4/responsive/headshot-xs-xs-md.png 768w"></figure>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>EDUCATION</title>
         <author>

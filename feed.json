@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://hsuanlolo.github.io/resume/about-hsuan-lo.html",
-            "url": "https://hsuanlolo.github.io/resume/about-hsuan-lo.html",
-            "title": "ABOUT HSUAN LO",
-            "summary": "Hsuan Lo is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real&hellip;",
-            "content_html": "<p><strong>Hsuan Lo</strong> is a doctoral data scientist and quantitative researcher from Harvard University, specializing in economic and market research, real estate, behavior science, and diverse data analytics. He also received statistics, modeling, AI, SQL, and data visualization training and certificates from Harvard and MIT.</p>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://hsuanlolo.github.io/resume/media/posts/4/headshot-xs-xs.png\" alt=\"\" width=\"300\" height=\"298\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://hsuanlolo.github.io/resume/media/posts/4/responsive/headshot-xs-xs-xs.png 300w ,https://hsuanlolo.github.io/resume/media/posts/4/responsive/headshot-xs-xs-sm.png 480w ,https://hsuanlolo.github.io/resume/media/posts/4/responsive/headshot-xs-xs-md.png 768w\"></figure>",
-            "author": {
-                "name": "Hsuan Lo"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-11-10T16:28:15+08:00",
-            "date_modified": "2023-11-10T16:28:15+08:00"
-        },
-        {
             "id": "https://hsuanlolo.github.io/resume/education-2.html",
             "url": "https://hsuanlolo.github.io/resume/education-2.html",
             "title": "EDUCATION",
